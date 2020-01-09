@@ -1,7 +1,11 @@
 <h1>quick-search 快搜</h1>
-A crx of Chrome Browser. 一个谷歌浏览器的插件。</br></br>
-<h3>Download 下载</h3>
-<a href="https://github.com/matthewlu070111/quick-search/releases" target="_blank">Download at GitHub release 于GitHub release下载</a></br>
-<h3>Maker:xiaoanag 制作者：小安ag</h3>
-<a href="https://matthewlu070111.github.io/" target="_blank">My homepage 我的主页</a>
-<h3>Language: Simp.Chinese 语言：简体中文</h3>
+一个谷歌浏览器的插件。</br></br>
+<h3>下载：</h3></br>
+<a href="https://github.com/matthewlu070111/quick-search/releases/download/v1.0.0/QuickSearch.v1.0.0.crx" target="_blank">v1.0.0</a></br>
+<a href="https://github.com/matthewlu070111/quick-search/releases/download/v1.0.1/QuickSearch.v1.0.1.crx" target="_blank">v1.0.1</a></br>
+<a href="https://github.com/matthewlu070111/quick-search/releases/download/v1.1.0/QuickSearch.v1.1.0.crx" target="_blank">v1.1.0</a></br>
+<h3>制作者：MatthewLu070111(xiaoanag)</h3>
+<a href="https://matthewlu070111.github.io/" target="_blank">我的主页</a>
+<h3>语言：简体中文</h3>
+<h3>更多版本下载:</h3></br>
+<a href="https://github.com/matthewlu070111/quick-search/releases" target="_blank">GitHub release</a></br>
