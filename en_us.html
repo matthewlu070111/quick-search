@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #f1f1f1;
+        position: fixed;
+        top: 0;
+        width: 100%;
+    }
+    li{
+        float: left;
+    }
+    li.right{
+        float: right;
+    }
+    li a{
+        display: block;
+        color: #000000;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    li a.active{
+        background-color: #4caf50;
+        color: white;
+    }
+    li a:hover:not(.active){
+        background-color: #555555;
+        color: white;
+    }
+    .content{
+        margin: 100px auto;
+        text-align: center;
+        height: auto;
+        width: 100% auto;
+    }
+    .content a.download{
+        font-size: 15px;
+        text-decoration: none;
+        color: #4caf50;
+    }
+    .PageDown {
+        position: fixed;
+        text-align: center;
+        width: 100%;
+        bottom: 0;
+        transition: none;
+    }
+    .PageDown a{
+        color: #555555;
+        text-decoration: none;
+    }
+</style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>MatthewLu070111's Blog</title>
+</head>
+<body>
+    <ul>
+        <li><a href="https://matthewlu070111.github.io/">Homepage</a></li>
+        <li><a href="#quick-search" class="active">quick-search repo</a></li>
+        <li><a href="https://matthewlu070111.github.io/ruby/">ruby repo</a></li>
+        <li class="right"><a href="https://github.com/matthewlu070111/quick-search">GitHub Page</a></li>
+    </ul>
+    <div class="content">
+        <h1>quick-search repo</h1>
+        <p><b>New Uses:</b></br>A prettier crx, very useful</p>
+        <p>If you have problems please <a href="mailto:lushiqiyie@126.com?Subject=Quick%20Search%20问题反馈">Report Problems</a></p>
+        <a href="https://github.com/matthewlu070111/quick-search/releases/download/v1.2.0/QuickSearch.v1.2.0.crx" class="download">Download crx</a></br>
+        <a href="https://matthewlu070111.github.io/quick-search/changelog.html" class="download">Update Changelog</a>
+    </div>
+    <div class="PageDown">
+        <a href="https://matthewlu070111.github.io/language.html">Change Language</a>
+    </div>
+</body>
+</html>
